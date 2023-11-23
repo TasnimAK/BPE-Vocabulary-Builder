@@ -16,6 +16,3 @@ The BPE algorithm starts with a large corpus of text and performs the following 
 ## Usage
 
 To use this code, simply run the script and enter the corpus when prompted. The script will output the vocabulary after each merge step.
-
-```python
-python BPE.py
